@@ -1,4 +1,4 @@
 jdbc.drivers=org.postgresql.Driver
 BD.location= jdbc:postgresql://pg:5432/studs
-BD.login= s282509
-BD.password= mhk408
+BD.login= 
+BD.password= 
